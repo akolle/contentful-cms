@@ -1,22 +1,17 @@
 const projects = [
   {
-    title: 'birthday buddy',
-    url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
-    image: './assets/birthday.png',
+    title: 'menu',
+    url: 'https://ak-rt-menu.netlify.app/',
+    image: './assets/menu.png',
   },
   {
-    title: 'tours',
-    url: 'https://react-vite-projects-2-tours.netlify.app/',
-    image: './assets/tours.png',
+    title: 'color generator',
+    url: 'https://ak-rt-colorgenerator.netlify.app/',
+    image: './assets/color-generator.png',
   },
   {
-    title: 'reviews',
-    url: 'https://react-vite-projects-3-reviews.netlify.app/',
-    image: './assets/reviews.png',
+    title: 'unsplash pictures',
+    url: 'https://ak-rt-animal-generator.netlify.app/',
+    image: './assets/unsplash.png',
   },
-  {
-    title: 'questions',
-    url: 'https://react-vite-projects-4-accordion.netlify.app/',
-    image: './assets/questions.png',
-  },
-];
+]
